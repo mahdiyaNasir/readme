@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:/aerobic/hero#bnfts
+Disallow:/books/books-index
+Allow:/contectus(form)/form-index
+Allow:/meditation/mediation
